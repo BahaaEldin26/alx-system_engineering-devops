@@ -1,2 +1,2 @@
 #!/bi/bash
-chmod +3 hello
+chmod x+a hello
